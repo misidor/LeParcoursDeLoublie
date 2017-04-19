@@ -1,5 +1,12 @@
 # Changelog
 
+### Version 0.2
+
+**Features**
+ - Added Inventory System for keys
+ - Added support For Xbox 360 controller
+ - Added Level 1 Alpha version
+ 
 ### Version 0.1b
 
 **Features**
